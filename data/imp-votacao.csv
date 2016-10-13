@@ -1,0 +1,515 @@
+deputado,partido,estado,voto
+Pedro Vilela,PSDB,AL,SIM
+Maurício Quintella Lessa,PR,AL,SIM
+Marx Beltrão,PMDB,AL,SIM
+JHC,PSB,AL,SIM
+Cícero Almeida,PMDB,AL,SIM
+Arthur Lira,PP,AL,SIM
+Valadares Filho,PSB,SE,SIM
+Laercio Oliveira,SD,SE,SIM
+Jony Marcos,PRB,SE,SIM
+Fabio Reis,PMDB,SE,SIM
+Andre Moura,PSC,SE,SIM
+Adelson Barreto,PR,SE,SIM
+Tadeu Alencar,PSB,PE,SIM
+Pastor Eurico,PHS,PE,SIM
+Mendonça Filho,DEM,PE,SIM
+Marinaldo Rosendo,PSB,PE,SIM
+Kaio Maniçoba,PMDB,PE,SIM
+Jorge Côrte Real,PTB,PE,SIM
+João Fernando Coutinho,PSB,PE,SIM
+Jarbas Vasconcelos,PMDB,PE,SIM
+Gonzaga Patriota,PSB,PE,SIM
+Fernando Coelho Filho,PSB,PE,SIM
+Eduardo da Fonte,PP,PE,SIM
+Danilo Cabral,PSB,PE,SIM
+Daniel Coelho,PSDB,PE,SIM
+Bruno Araújo,PSDB,PE,SIM
+Betinho Gomes,PSDB,PE,SIM
+Augusto Coutinho,SD,PE,SIM
+André de Paula,PSD,PE,SIM
+Anderson Ferreira,PR,PE,SIM
+Wilson Filho,PTB,PB,SIM
+Veneziano Vital do Rêgo,PMDB,PB,SIM
+Rômulo Gouveia,PSD,PB,SIM
+Pedro Cunha Lima,PSDB,PB,SIM
+Manoel Junior,PMDB,PB,SIM
+Hugo Motta,PMDB,PB,SIM
+Efraim Filho,DEM,PB,SIM
+Benjamin Maranhão,SD,PB,SIM
+Aguinaldo Ribeiro,PP,PB,SIM
+Uldurico Junior,PV,BA,SIM
+Tia Eron,PRB,BA,SIM
+Paulo Azi,DEM,BA,SIM
+Márcio Marinho,PRB,BA,SIM
+Lucio Vieira Lima,PMDB,BA,SIM
+Jutahy Junior,PSDB,BA,SIM
+José Carlos Aleluia,DEM,BA,SIM
+João Gualberto,PSDB,BA,SIM
+Irmão Lazaro,PSC,BA,SIM
+Erivelton Santana,PEN,BA,SIM
+Elmar Nascimento,DEM,BA,SIM
+Claudio Cajado,DEM,BA,SIM
+Benito Gama,PTB,BA,SIM
+Arthur Oliveira Maia,PPS,BA,SIM
+Antonio Imbassahy,PSDB,BA,SIM
+Zé Silva,SD,MG,SIM
+Weliton Prado,PMB,MG,SIM
+Toninho Pinheiro,PP,MG,SIM
+Tenente Lúcio,PSB,MG,SIM
+Subtenente Gonzaga,PDT,MG,SIM
+Stefano Aguiar,PSD,MG,SIM
+Saraiva Felipe,PMDB,MG,SIM
+Rodrigo Pacheco,PMDB,MG,SIM
+Rodrigo de Castro,PSDB,MG,SIM
+Renzo Braz,PP,MG,SIM
+Raquel Muniz,PSD,MG,SIM
+Paulo Abi-ackel,PSDB,MG,SIM
+Odelmo Leão,PP,MG,SIM
+Newton Cardoso Jr,PMDB,MG,SIM
+Misael Varella,DEM,MG,SIM
+Mauro Lopes,PMDB,MG,SIM
+Mário Heringer,PDT,MG,SIM
+Marcus Pestana,PSDB,MG,SIM
+Marcos Montes,PSD,MG,SIM
+Marcelo Aro,PHS,MG,SIM
+Marcelo Álvaro Antônio,PR,MG,SIM
+Luiz Fernando Faria,PP,MG,SIM
+Luis Tibé,PTdoB,MG,SIM
+Lincoln Portela,PRB,MG,SIM
+Leonardo Quintão,PMDB,MG,SIM
+Laudivio Carvalho,SD,MG,SIM
+Júlio Delgado,PSB,MG,SIM
+Jaime Martins,PSD,MG,SIM
+Franklin Lima,PP,MG,SIM
+Fábio Ramalho,PMDB,MG,SIM
+Eros Biondini,PROS,MG,SIM
+Eduardo Barbosa,PSDB,MG,SIM
+Domingos Sávio,PSDB,MG,SIM
+Dimas Fabiano,PP,MG,SIM
+Diego Andrade,PSD,MG,SIM
+Delegado Edson Moreira,PR,MG,SIM
+Dâmina Pereira,PSL,MG,SIM
+Carlos Melles,DEM,MG,SIM
+Caio Narcio,PSDB,MG,SIM
+Bonifácio de Andrada,PSDB,MG,SIM
+Bilac Pinto,PR,MG,SIM
+Walter Alves,PMDB,RN,SIM
+Rogério Marinho,PSDB,RN,SIM
+Rafael Motta,PSB,RN,SIM
+Felipe Maia,DEM,RN,SIM
+Fábio Faria,PSD,RN,SIM
+Beto Rosado,PP,RN,SIM
+Antônio Jácome,PTN,RN,SIM
+Rodrigo Martins,PSB,PI,SIM
+Júlio Cesar,PSD,PI,SIM
+Iracema Portella,PP,PI,SIM
+Heráclito Fortes,PSB,PI,SIM
+Átila Lira,PSB,PI,SIM
+Sergio Vidigal,PDT,ES,SIM
+Paulo Foletto,PSB,ES,SIM
+Max Filho,PSDB,ES,SIM
+Marcus Vicente,PP,ES,SIM
+Lelo Coimbra,PMDB,ES,SIM
+Evair de Melo,PV,ES,SIM
+Dr. Jorge Silva,PHS,ES,SIM
+Carlos Manato,SD,ES,SIM
+Sóstenes Cavalcante,DEM,RJ,SIM
+Soraya Santos,PMDB,RJ,SIM
+,SIMão Ses,SIM,PP
+RJ,SIM,,
+Sergio Zveiter,PMDB,RJ,SIM
+Rosangela Gomes,PRB,RJ,SIM
+Rodrigo Maia,DEM,RJ,SIM
+Roberto Sales,PRB,RJ,SIM
+Pedro Paulo,PMDB,RJ,SIM
+Paulo Feijó,PR,RJ,SIM
+Otavio Leite,PSDB,RJ,SIM
+Miro Teixeira,REDE,RJ,SIM
+Marcos Soares,DEM,RJ,SIM
+Marco Antônio Cabral,PMDB,RJ,SIM
+Marcelo Matos,PHS,RJ,SIM
+Luiz Carlos Ramos,PTN,RJ,SIM
+Julio Lopes,PP,RJ,SIM
+Jair Bolsonaro,PSC,RJ,SIM
+Indio da Costa,PSD,RJ,SIM
+Hugo Leal,PSB,RJ,SIM
+Francisco Floriano,DEM,RJ,SIM
+Fernando Jordão,PMDB,RJ,SIM
+Felipe Bornier,PROS,RJ,SIM
+Ezequiel Teixeira,PTN,RJ,SIM
+Eduardo Cunha,PMDB,RJ,SIM
+Dr. João,PR,RJ,SIM
+Deley,PTB,RJ,SIM
+Cristiane Brasil,PTB,RJ,SIM
+Cabo Daciolo,PTdoB,RJ,SIM
+Aureo,SD,RJ,SIM
+Arolde de Oliveira,PSC,RJ,SIM
+Altineu Côrtes,PMDB,RJ,SIM
+Alexandre Valle,PR,RJ,SIM
+Alexandre Serfiotis,PMDB,RJ,SIM
+Vitor Valim,PMDB,CE,SIM
+Ronaldo Martins,PRB,CE,SIM
+Raimundo Gomes de Matos,PSDB,CE,SIM
+Moses Rodrigues,PMDB,CE,SIM
+Moroni Torgan,DEM,CE,SIM
+Genecias Noronha,SD,CE,SIM
+Danilo Forte,PSB,CE,SIM
+Cabo Sabino,PR,CE,SIM
+Adail Carneiro,PP,CE,SIM
+Victor Mendes,PSD,MA,SIM
+Sarney Filho,PV,MA,SIM
+Juscelino Filho,DEM,MA,SIM
+José Reinaldo,PSB,MA,SIM
+João Castelo,PSDB,MA,SIM
+Hildo Rocha,PMDB,MA,SIM
+Eliziane Gama,PPS,MA,SIM
+Cleber Verde,PRB,MA,SIM
+André Fufuca,PP,MA,SIM
+Vitor Lippi,PSDB,SP,SIM
+Vinicius Carvalho,PRB,SP,SIM
+Vanderlei Macris,PSDB,SP,SIM
+Tiririca,PR,SP,SIM
+Silvio Torres,PSDB,SP,SIM
+Sérgio Reis,PRB,SP,SIM
+Samuel Moreira,PSDB,SP,SIM
+Rodrigo Garcia,DEM,SP,SIM
+Roberto de Lucena,PV,SP,SIM
+Roberto Alves,PRB,SP,SIM
+Ricardo Tripoli,PSDB,SP,SIM
+Ricardo Izar,PP,SP,SIM
+Renata Abreu,PTN,SP,SIM
+Pr. Marco Feliciano,PSC,SP,SIM
+Paulo Pereira da Silva,SD,SP,SIM
+Paulo Maluf,PP,SP,SIM
+Paulo Freire,PR,SP,SIM
+Nelson Marquezelli,PTB,SP,SIM
+Missionário José Olimpio,DEM,SP,SIM
+Milton Monti,PR,SP,SIM
+Miguel Lombardi,PR,SP,SIM
+Miguel Haddad,PSDB,SP,SIM
+Marcio Alvino,PR,SP,SIM
+Marcelo Squassoni,PRB,SP,SIM
+Mara Gabrilli,PSDB,SP,SIM
+Major Olimpio,SD,SP,SIM
+Luiz Lauro Filho,PSB,SP,SIM
+Keiko Ota,PSB,SP,SIM
+Jorge Tadeu Mudalen,DEM,SP,SIM
+João Paulo Papa,PSDB,SP,SIM
+Jefferson Campos,PSD,SP,SIM
+Herculano Passos,PSD,SP,SIM
+Guilherme Mussi,PP,SP,SIM
+Goulart,PSD,SP,SIM
+Gilberto Nascimento,PSC,SP,SIM
+Floriano Pesaro,PSDB,SP,SIM
+Flavinho,PSB,SP,SIM
+Fausto Pinato,PP,SP,SIM
+Evandro Gussi,PV,SP,SIM
+Eli Corrêa Filho,DEM,SP,SIM
+Eduardo Cury,PSDB,SP,SIM
+Eduardo Bolsonaro,PSC,SP,SIM
+Edinho Araújo,PMDB,SP,SIM
+Duarte Nogueira,PSDB,SP,SIM
+Dr. Sinval Malheiros,PTN,SP,SIM
+Celso Russomanno,PRB,SP,SIM
+Carlos Sampaio,PSDB,SP,SIM
+Capitão Augusto,PR,SP,SIM
+Bruno Covas,PSDB,SP,SIM
+Bruna Furlan,PSDB,SP,SIM
+Beto Mansur,PRB,SP,SIM
+Baleia Rossi,PMDB,SP,SIM
+Arnaldo Jardim,PPS,SP,SIM
+Arnaldo Faria de Sá,PTB,SP,SIM
+Antonio Bulhões,PRB,SP,SIM
+Alexandre Leite,DEM,SP,SIM
+Alex Manente,PPS,SP,SIM
+Tampinha,PSD,MT,SIM
+Professor Victório Galli,PSC,MT,SIM
+Nilson Leitão,PSDB,MT,SIM
+Fabio Garcia,PSB,MT,SIM
+Carlos Bezerra,PMDB,MT,SIM
+Adilton Sachetti,PSB,MT,SIM
+Professora Dorinha,DEM,TO,SIM
+Lázaro Botelho,PP,TO,SIM
+Josi Nunes,PMDB,TO,SIM
+Dulce Miranda,PMDB,TO,SIM
+César Halum,PRB,TO,SIM
+Carlos Henrique Gaguim,PTN,TO,SIM
+Rocha,PSDB,AC,SIM
+Jéssica Sales,PMDB,AC,SIM
+Flaviano Melo,PMDB,AC,SIM
+Alan Rick,PRB,AC,SIM
+Rôney Nemer,PP,DF,SIM
+Ronaldo Fonseca,PROS,DF,SIM
+Rogério Rosso,PSD,DF,SIM
+Laerte Bessa,PR,DF,SIM
+Izalci,PSDB,DF,SIM
+Augusto Carvalho,SD,DF,SIM
+Alberto Fraga,DEM,DF,SIM
+Thiago Peixoto,PSD,GO,SIM
+Roberto Balestra,PP,GO,SIM
+Pedro Chaves,PMDB,GO,SIM
+Marcos Abrão,PPS,GO,SIM
+Magda Mofatto,PR,GO,SIM
+Lucas Vergilio,SD,GO,SIM
+Jovair Arantes,PTB,GO,SIM
+João Campos,PRB,GO,SIM
+Heuler Cruvinel,PSD,GO,SIM
+Giuseppe Vecci,PSDB,GO,SIM
+Flávia Morais,PDT,GO,SIM
+Fábio Sousa,PSDB,GO,SIM
+Delegado Waldir,PR,GO,SIM
+Daniel Vilela,PMDB,GO,SIM
+Célio Silveira,PSDB,GO,SIM
+Alexandre Baldy,PTN,GO,SIM
+Nilton Capixaba,PTB,RO,SIM
+Marinha Raupp,PMDB,RO,SIM
+Mariana Carvalho,PSDB,RO,SIM
+Marcos Rogério,DEM,RO,SIM
+Luiz Cláudio,PR,RO,SIM
+Lucio Mosquini,PMDB,RO,SIM
+Lindomar Garçon,PRB,RO,SIM
+Expedito Netto,PSD,RO,SIM
+Silas Câmara,PRB,AM,SIM
+Pauderney Avelino,DEM,AM,SIM
+Marcos Rotta,PMDB,AM,SIM
+Hissa Abrahão,PDT,AM,SIM
+Conceição Sampaio,PP,AM,SIM
+Átila Lins,PSD,AM,SIM
+Arthur Virgílio Bisneto,PSDB,AM,SIM
+Alfredo Nascimento,PR,AM,SIM
+Tereza Cristina,PSB,MS,SIM
+Mandetta,DEM,MS,SIM
+Geraldo Resende,PSDB,MS,SIM
+Elizeu Dionizio,PSDB,MS,SIM
+Carlos Marun,PMDB,MS,SIM
+Toninho Wandscheer,PROS,PR,SIM
+Takayama,PSC,PR,SIM
+Sergio Souza,PMDB,PR,SIM
+Sandro Alex,PSD,PR,SIM
+Rubens Bueno,PPS,PR,SIM
+Ricardo Barros,PP,PR,SIM
+Paulo Martins,PSDB,PR,SIM
+Osmar Serraglio,PMDB,PR,SIM
+Nelson Padovani,PSDB,PR,SIM
+Nelson Meurer,PP,PR,SIM
+Marcelo Belinati,PP,PR,SIM
+Luiz Nishimori,PR,PR,SIM
+Luiz Carlos Hauly,PSDB,PR,SIM
+Luciano Ducci,PSB,PR,SIM
+Leopoldo Meyer,PSB,PR,SIM
+Leandre,PV,PR,SIM
+João Arruda,PMDB,PR,SIM
+Hermes Parcianello,PMDB,PR,SIM
+Giacobo,PR,PR,SIM
+Fernando Francischini,SD,PR,SIM
+Evandro Roman,PSD,PR,SIM
+Dilceu Sperafico,PP,PR,SIM
+Diego Garcia,PHS,PR,SIM
+Christiane de Souza Yared,PR,PR,SIM
+Alfredo Kaefer,PSL,PR,SIM
+Alex Canziani,PTB,PR,SIM
+Wladimir Costa,SD,PA,SIM
+Nilson Pinto,PSDB,PA,SIM
+Júlia Marinho,PSC,PA,SIM
+Josué Bengtson,PTB,PA,SIM
+José Priante,PMDB,PA,SIM
+Joaquim Passarinho,PSD,PA,SIM
+Hélio Leite,DEM,PA,SIM
+Francisco Chapadinha,PTN,PA,SIM
+Delegado Éder Mauro,PSD,PA,SIM
+Arnaldo Jordy,PPS,PA,SIM
+Marcos Reategui,PSD,AP,SIM
+Cabuçu Borges,PMDB,AP,SIM
+André Abdon,PP,AP,SIM
+Valdir Colatto,PMDB,SC,SIM
+Ronaldo Benedet,PMDB,SC,SIM
+Rogério Peninha Mendonça,PMDB,SC,SIM
+Mauro Mariani,PMDB,SC,SIM
+Marco Tebaldi,PSDB,SC,SIM
+Jorginho Mello,PR,SC,SIM
+Jorge Boeira,PP,SC,SIM
+João Rodrigues,PSD,SC,SIM
+João Paulo Kleinübing,PSD,SC,SIM
+Geovania de Sá,PSDB,SC,SIM
+Esperidião Amin,PP,SC,SIM
+Cesar Souza,PSD,SC,SIM
+Celso Maldaner,PMDB,SC,SIM
+Carmen Zanotto,PPS,SC,SIM
+Sérgio Moraes,PTB,RS,SIM
+Ronaldo Nogueira,PTB,RS,SIM
+Renato Molling,PP,RS,SIM
+Osmar Terra,PMDB,RS,SIM
+Onyx Lorenzoni,DEM,RS,SIM
+Nelson Marchezan Junior,PSDB,RS,SIM
+Mauro Pereira,PMDB,RS,SIM
+Luiz Carlos Busato,PTB,RS,SIM
+Luis Carlos Heinze,PP,RS,SIM
+Jose Stédile,PSB,RS,SIM
+José Otávio Germano,PP,RS,SIM
+José Fogaça,PMDB,RS,SIM
+João Derly,REDE,RS,SIM
+Jerônimo Goergen,PP,RS,SIM
+Heitor Schuch,PSB,RS,SIM
+Giovani Cherini,PDT,RS,SIM
+Darcísio Perondi,PMDB,RS,SIM
+Danrlei de Deus Hinterholz,PSD,RS,SIM
+Covatti Filho,PP,RS,SIM
+Carlos Gomes,PRB,RS,SIM
+Alceu Moreira,PMDB,RS,SIM
+Afonso Hamm,PP,RS,SIM
+Shéridan,PSDB,RR,SIM
+Remídio Monai,PR,RR,SIM
+Maria Helena,PSB,RR,SIM
+Jhonatan de Jesus,PRB,RR,SIM
+Hiran Gonçalves,PP,RR,SIM
+Carlos Andrade,PHS,RR,SIM
+Washington Reis,PMDB,RJ,SIM
+Abel Mesquita Jr.,DEM,RR,SIM
+Alberto Filho,PMDB,MA,SIM
+Ronaldo Lessa,PDT,AL,NAO
+Paulão,PT,AL,NAO
+Givaldo Carimbão,PHS,AL,NAO
+João Daniel,PT,SE,NAO
+Fábio Mitidieri,PSD,SE,NAO
+Zeca Cavalcanti,PTB,PE,NAO
+Wolney Queiroz,PDT,PE,NAO
+Silvio Costa,PTdoB,PE,NAO
+Ricardo Teobaldo,PTN,PE,NAO
+Luciana Santos,PCdoB,PE,NAO
+Adalberto Cavalcanti,PTB,PE,NAO
+Wellington Roberto,PR,PB,NAO
+Luiz Couto,PT,PB,NAO
+Damião Feliciano,PDT,PB,NAO
+Waldenor Pereira,PT,BA,NAO
+Valmir Assunção,PT,BA,NAO
+Sérgio Brito,PSD,BA,NAO
+Ronaldo Carletto,PP,BA,NAO
+Roberto Britto,PP,BA,NAO
+Paulo Magalhães,PSD,BA,NAO
+Moema Gramacho,PT,BA,NAO
+José Rocha,PR,BA,NAO
+José Nunes,PSD,BA,NAO
+José Carlos Araújo,PR,BA,NAO
+Jorge Solla,PT,BA,NAO
+João Carlos Bacelar,PR,BA,NAO
+Fernando Torres,PSD,BA,NAO
+Félix Mendonça Júnior,PDT,BA,NAO
+Davidson Magalhães,PCdoB,BA,NAO
+Daniel Almeida,PCdoB,BA,NAO
+Caetano,PT,BA,NAO
+Bebeto,PSB,BA,NAO
+Bacelar,PTN,BA,NAO
+Antonio Brito,PSD,BA,NAO
+Alice Portugal,PCdoB,BA,NAO
+Afonso Florence,PT,BA,NAO
+Reginaldo Lopes,PT,MG,NAO
+Patrus Ananias,PT,MG,NAO
+Padre João,PT,MG,NAO
+Miguel Corrêa,PT,MG,NAO
+Margarida Salomão,PT,MG,NAO
+Leonardo Monteiro,PT,MG,NAO
+Jô Moraes,PCdoB,MG,NAO
+George Hilton,PROS,MG,NAO
+Gabriel Guimarães,PT,MG,NAO
+Brunny,PR,MG,NAO
+Aelton Freitas,PR,MG,NAO
+Adelmo Carneiro Leão,PT,MG,NAO
+Zenaide Maia,PR,RN,NAO
+Rejane Dias,PT,PI,NAO
+Paes Landim,PTB,PI,NAO
+Marcelo Castro,PMDB,PI,NAO
+Capitão Fábio Abreu,PTB,PI,NAO
+Assis Carvalho,PT,PI,NAO
+Helder Salomão,PT,ES,NAO
+Givaldo Vieira,PT,ES,NAO
+Wadih Damous,PT,RJ,NAO
+Luiz Sérgio,PT,RJ,NAO
+Leonardo Picciani,PMDB,RJ,NAO
+Jean Wyllys,PSOL,RJ,NAO
+Jandira Feghali,PCdoB,RJ,NAO
+Glauber Braga,PSOL,RJ,NAO
+Chico D'angelo,PT,RJ,NAO
+Chico Alencar,PSOL,RJ,NAO
+Celso Pansera,PMDB,RJ,NAO
+Benedita da Silva,PT,RJ,NAO
+Alessandro Molon,REDE,RJ,NAO
+Vicente Arruda,PDT,CE,NAO
+Odorico Monteiro,PROS,CE,NAO
+Macedo,PP,CE,NAO
+Luizianne Lins,PT,CE,NAO
+Leônidas Cristino,PDT,CE,NAO
+José Guimarães,PT,CE,NAO
+José Airton Cirilo,PT,CE,NAO
+Domingos Neto,PSD,CE,NAO
+Chico Lopes,PCdoB,CE,NAO
+Arnon Bezerra,PTB,CE,NAO
+Ariosto Holanda,PDT,CE,NAO
+Zé Carlos,PT,MA,NAO
+Weverton Rocha,PDT,MA,NAO
+Waldir Maranhão,PP,MA,NAO
+Rubens Pereira Júnior,PCdoB,MA,NAO
+Pedro Fernandes,PTB,MA,NAO
+Junior Marreca,PEN,MA,NAO
+João Marcelo Souza,PMDB,MA,NAO
+Aluisio Mendes,PTN,MA,NAO
+Vicentinho,PT,SP,NAO
+Vicente Candido,PT,SP,NAO
+Valmir Prascidelli,PT,SP,NAO
+Paulo Teixeira,PT,SP,NAO
+Orlando Silva,PCdoB,SP,NAO
+Nilto Tatto,PT,SP,NAO
+Luiza Erundina,PSOL,SP,NAO
+José Mentor,PT,SP,NAO
+Ivan Valente,PSOL,SP,NAO
+Carlos Zarattini,PT,SP,NAO
+Arlindo Chinaglia,PT,SP,NAO
+Andres Sanchez,PT,SP,NAO
+Ana Perugini,PT,SP,NAO
+Valtenir Pereira,PMDB,MT,NAO
+Ságuas Moraes,PT,MT,NAO
+Vicentinho Júnior,PR,TO,NAO
+Irajá Abreu,PSD,TO,NAO
+Sibá Machado,PT,AC,NAO
+Leo de Brito,PT,AC,NAO
+César Messias,PSB,AC,NAO
+Angelim,PT,AC,NAO
+Erika Kokay,PT,DF,NAO
+Rubens Otoni,PT,GO,NAO
+Zeca do PT,PT,MS,NAO
+Vander Loubet,PT,MS,NAO
+Dagoberto,PDT,MS,NAO
+Zeca Dirceu,PT,PR,NAO
+Enio Verri,PT,PR,NAO
+Assis do Couto,PDT,PR,NAO
+Aliel Machado,REDE,PR,NAO
+Zé Geraldo,PT,PA,NAO
+Simone Morgado,PMDB,PA,NAO
+Lúcio Vale,PR,PA,NAO
+Elcione Barbalho,PMDB,PA,NAO
+Edmilson Rodrigues,PSOL,PA,NAO
+Beto Faro,PT,PA,NAO
+Roberto Góes,PDT,AP,NAO
+Professora Marcivania,PCdoB,AP,NAO
+Jozi Araújo,PTN,AP,NAO
+Janete Capiberibe,PSB,AP,NAO
+Pedro Uczai,PT,SC,NAO
+Décio Lima,PT,SC,NAO
+Pepe Vargas,PT,RS,NAO
+Paulo Pimenta,PT,RS,NAO
+Maria do Rosário,PT,RS,NAO
+Marcon,PT,RS,NAO
+Marco Maia,PT,RS,NAO
+Henrique Fontana,PT,RS,NAO
+Bohn Gass,PT,RS,NAO
+Afonso Motta,PDT,RS,NAO
+Edio Lopes,PR,RR,NAO
+Aníbal Gomes,PMDB,CE,AUSEN
+Clarissa Garotinho,PR,RJ,AUSEN
+Pompeo de Mattos,PDT,RS,ABST
+Vinicius Gurgel,PR,AP,ABST
+Beto Salame,PP,PA,ABST
+Gorete Pereira,PR,CE,ABST
+Cacá Leão,PP,BA,ABST
+Mário Negromonte Jr.,PP,BA,ABST
+Sebastião Oliveira,PR,PE,ABST
