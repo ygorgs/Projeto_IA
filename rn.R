@@ -35,4 +35,4 @@ som.votacao <- som(matrix.treino[], grid=somgrid(5,5,"hexagonal"))
 som.prediction <- predict(som.votacao, newdata=matrix.teste,
                           trainX = matrix.treino,
                           trainY = factor(votacao$IMPEACHMENT[split]))
-table(factor(votacao$IMPEACHMENT[-split]), som.prediction$prediction)
+confusionMatrix(factor(votacao$IMPEACHMENT[-split]), som.prediction$prediction)
