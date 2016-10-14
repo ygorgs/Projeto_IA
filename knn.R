@@ -7,9 +7,12 @@ temas <- read.csv2("data/temas.csv", encoding="UTF-8")
 
 votacao <- read.csv2("data/deputados_temas_e_impeachment.csv", encoding="UTF-8")
 
+votacao <- read.csv2("data/deputados_temas_e_impeachment_v1.1.csv", encoding="UTF-8")
+
 #Tratamento dos dados (tirando os NA's) abstinencia a ausencias
 votacao <- filter(votacao, grepl('SIM|NAO', votacao$IMPEACHMENT)) %>% droplevels()
 votacao <- votacao[complete.cases(votacao),]
+votacao$IMPEACHMENT <- as.factor(votacao$IMPEACHMENT)
 
 #criando partições
 split <- createDataPartition(y = votacao$IMPEACHMENT, p = 0.75, list = F)
@@ -26,7 +29,7 @@ prop.table(table(teste$IMPEACHMENT))
 
 #treinando modelo
 ctrl_knn <- trainControl(method = "repeatedcv", number = 10)
-knnFit <- train(IMPEACHMENT ~ .-id_dep-nome-deputado, 
+knnFit <- train(IMPEACHMENT ~ .-id_dep-nome-deputado-UF, 
                 data = treino, 
                 method="knn", 
                 trControl = ctrl_knn, 
