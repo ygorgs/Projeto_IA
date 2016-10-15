@@ -61,17 +61,4 @@ pr.nn_ <- pr.nn$net.result*(max(data$IMPEACHMENT)-min(data$IMPEACHMENT))+min(dat
 pr.nn_[pr.nn_ >=0.5] <- 1
 pr.nn_[pr.nn_ <0.5] <- 0
 
-test.r <- (test_$IMPEACHMENT)*(max(data$IMPEACHMENT)-min(data$IMPEACHMENT))+min(data$IMPEACHMENT)
-MSE.nn <- sum((test.r - pr.nn_)^2)/nrow(test_)
-
-par(mfrow=c(1,2))
-
-plot(test$IMPEACHMENT,pr.nn_,col='red',main='Real vs predicted NN',pch=18,cex=0.7)
-abline(0,1,lwd=2)
-legend('bottomright',legend='NN',pch=18,col='red', bty='n')
-
-#plot(test$IMPEACHMENT,pr.knn,col='blue',main='Real vs predicted lm',pch=18, cex=0.7)
-#abline(0,1,lwd=2)
-#legend('bottomright',legend='LM',pch=18,col='blue', bty='n', cex=.95)
-
 confusionMatrix(test_$IMPEACHMENT, pr.nn_)
